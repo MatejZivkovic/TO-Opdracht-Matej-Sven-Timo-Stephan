@@ -74,3 +74,17 @@ button:hover {
 .start-button:hover {
     background-color: #ffcc00;
 }
+.choice-button {
+    display: inline-block;
+    background-color: #ffd700;
+    color: #000;
+    text-decoration: none;
+    padding: 14px;
+    border-radius: 10px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.choice-button:hover {
+    background-color: #ffcc00;
+}
