@@ -58,3 +58,19 @@ button {
 button:hover {
     background-color: #ffcc00;
 }
+.start-button {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 12px 25px;
+    font-size: 1em;
+    background-color: #ffd700;
+    color: #000;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+    font-weight: bold;
+}
+
+.start-button:hover {
+    background-color: #ffcc00;
+}
